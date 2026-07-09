@@ -1,0 +1,107 @@
+my game  OFFSETS
+==================================================
+
+
+#define Gname Java 0xec73720
+#define GWorld Offsets: 0xf1fe880
+#define VMatrix_Offsets 0xf1d5f70
+#define Vworld_Offsets 0xef3e0e0
+#define GNames_Offset 0x8939470
+#define GEngine_Offset 0xf1d5f70 //UEngine
+#define GEngine_Offset 0xf1d5f30 //UEngine
+#define GUObject_Offset 0xef3b3f0
+#define GNativeAndroidApp_Offset 0xec732a8
+#define GetActorArrary_Offset 0xa6ca440
+#define ProcessEvent_Offset 0x8bac0a8 //Child
+#define ProcessEvent_Offset 0xa211d60 //Main
+#define Actors_Offset 0xa0
+#define ps_Global_TargetFunc 0x6e45c70
+#define Gworld_Offset 0xf1fe880
+#define Mundo_CrashFix Orginal 0x57f3a0
+#define Termination_Offsets 0x5f25500
+#define BULLET SHELL SOCK _Offset 0x97D7CA7F
+
+
+#define GNames_Offset 0x8939470
+#define GEngine_Offset 0xf1d5f70 //UEngine
+#define GEngine_Offset 0xf1d5f30 //UEngine
+#define GUObject_Offset 0xef3b3f0
+#define GNativeAndroidApp_Offset 0xec732a8
+#define GetActorArrary_Offset 0xa6ca440
+#define ProcessEvent_Offset 0x8bac0a8 //Child
+#define ProcessEvent_Offset 0xa211d60 //Main
+#define Actors_Offset 0xa0
+
+
+CommonRank : 0x13f0
+LiveState : 0x13f4
+PlayerName : 0x749d900
+PlayerKey : 0x2f48
+TeamID : 0x940
+UID : 0x1c58
+PlayerUID : 0x988
+Nation : 0xa88
+Health : 0x17e8
+HealthMax : 0x74ea290
+bDead : 0x48
+bIsAI : 0xa40
+bIsMLAI : 0xa41
+CurrentStates : 0x1058
+bIsWeaponFiring : 0x1830
+bIsGunADS : 0x1134
+HighWalkSpeed : 0x2b78
+CurrentVehicle : 0x1528
+Mesh : 0x708
+Owner : 0xe8
+RootComponent : 0x208
+Role : 0xeb
+RemoteRole : 0xed
+ReplicatedMovement : 0x110
+NetUpdateFrequency : 0x1c8
+MinNetUpdateFrequency : 0x1cc
+PrimaryActorTick : 0x28
+Fuel : 0x197c
+FuelMax : 0x438
+bIsEngineStarted : 0xbc8
+VehicleSeats : 0xbf0
+ShootWeaponEntityComp : 0x1370
+CurShootID : 0x74ad280
+CurBulletInClip : 0x1018
+WeaponEntityComp : 0x1370
+mWeaponOwner : 0x770
+WeaponAttachSocketName : 0x7c0
+CurFreshWeaponState : 0x7b0
+ItemListNet : 0x3c8
+Capacity : 0x2a8
+OccupiedCapacity : 0x4f8
+SafetyBoxCapacity : 0x4fc
+SafetyBoxOccupiedCapacity : 0x500
+DefineID : 0x5f8
+Count : 0x722b550
+Type : 0x0
+TypeSpecificID : 0x4
+InstanceID : 0x10
+CameraCache : 0x520
+ViewTarget : 0x10a0
+PendingViewTarget : 0x1670
+Location : 0x0
+Rotation : 0x18
+FOV : 0x24
+PlayerCameraManager : 0x548
+AcknowledgedPawn : 0x528
+MyHUD : 0x540
+ControlRotation : 0x2809
+AttachParent : 0x0
+LocationOffset : 0x8
+RelativeScale3D : 0x1fc
+RotationOffset : 0x20
+AttachSocket : 0x30
+RelativeLocation : 0x1e4
+RelativeRotation : 0x1f0
+ComponentVelocity : 0x2c0
+bVisible : 0x2dc
+bHiddenInGame : 0x2dc
+Mobility : 0x2fd
+StaticMesh : 0x9a8
+ForcedLodModel : 0x998
+MinLOD : 0x9a4
